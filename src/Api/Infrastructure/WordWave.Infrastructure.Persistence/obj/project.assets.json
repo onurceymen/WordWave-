@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "AutoBogus/2.13.1": {
+        "type": "package",
+        "dependencies": {
+          "Bogus": "31.0.3",
+          "System.Data.DataSetExtensions": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/AutoBogus.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/AutoBogus.dll": {}
+        }
+      },
       "Azure.Core/1.24.0": {
         "type": "package",
         "dependencies": {
@@ -766,6 +779,15 @@
           }
         }
       },
+      "System.Data.DataSetExtensions/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Data.DataSetExtensions.dll": {}
+        }
+      },
       "System.Diagnostics.DiagnosticSource/5.0.0": {
         "type": "package",
         "compile": {
@@ -1199,6 +1221,19 @@
           }
         }
       },
+      "WordWave.Api.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "WordWave.Api.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WordWave.Api.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordWave.Api.Application.dll": {}
+        }
+      },
       "WordWave.Api.Common/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -1225,6 +1260,23 @@
     }
   },
   "libraries": {
+    "AutoBogus/2.13.1": {
+      "sha512": "9bvwy/Y53M/AWXzYaClv0jU9Xg/Ycyth3cQuUFWZRw5Dv4UsHV00iSrDplcheG6l5mL5SI/eif7X2INhuBvjQw==",
+      "type": "package",
+      "path": "autobogus/2.13.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "autobogus.2.13.1.nupkg.sha512",
+        "autobogus.nuspec",
+        "lib/net40/AutoBogus.dll",
+        "lib/net452/AutoBogus.dll",
+        "lib/netstandard1.3/AutoBogus.dll",
+        "lib/netstandard2.0/AutoBogus.dll",
+        "logo.png"
+      ]
+    },
     "Azure.Core/1.24.0": {
       "sha512": "+/qI1j2oU1S4/nvxb2k/wDsol00iGf1AyJX5g3epV7eOpQEP/2xcgh/cxgKMeFgn3U2fmgSiBnQZdkV+l5y0Uw==",
       "type": "package",
@@ -2357,6 +2409,25 @@
         "ref/netstandard2.0/System.Configuration.ConfigurationManager.xml",
         "system.configuration.configurationmanager.5.0.0.nupkg.sha512",
         "system.configuration.configurationmanager.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Data.DataSetExtensions/4.5.0": {
+      "sha512": "221clPs1445HkTBZPL+K9sDBdJRB8UN8rgjO3ztB0CQ26z//fmJXtlsr6whGatscsKGBrhJl5bwJuKSA8mwFOw==",
+      "type": "package",
+      "path": "system.data.datasetextensions/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net45/_._",
+        "lib/netstandard2.0/System.Data.DataSetExtensions.dll",
+        "ref/net45/_._",
+        "ref/netstandard2.0/System.Data.DataSetExtensions.dll",
+        "system.data.datasetextensions.4.5.0.nupkg.sha512",
+        "system.data.datasetextensions.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
@@ -3632,6 +3703,11 @@
         "version.txt"
       ]
     },
+    "WordWave.Api.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/WordWave.Api.Application/WordWave.Api.Application.csproj",
+      "msbuildProject": "../../Core/WordWave.Api.Application/WordWave.Api.Application.csproj"
+    },
     "WordWave.Api.Common/1.0.0": {
       "type": "project",
       "path": "../../../Common/WordWave.Api.Common/WordWave.Api.Common.csproj",
@@ -3645,12 +3721,14 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "AutoBogus >= 2.13.1",
       "Bogus >= 35.0.1",
       "Microsoft.EntityFrameworkCore >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Relational >= 7.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.0",
       "Polly >= 8.2.0",
+      "WordWave.Api.Application >= 1.0.0",
       "WordWave.Api.Domain >= 1.0.0"
     ]
   },
@@ -3681,6 +3759,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj": {
+              "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj"
+            },
             "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj": {
               "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj"
             }
@@ -3697,6 +3778,10 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
+          "AutoBogus": {
+            "target": "Package",
+            "version": "[2.13.1, )"
+          },
           "Bogus": {
             "target": "Package",
             "version": "[35.0.1, )"

@@ -1,0 +1,12 @@
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\bin\Debug\net7.0\WordWave.Api.Common.deps.json
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\bin\Debug\net7.0\WordWave.Api.Common.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\bin\Debug\net7.0\WordWave.Api.Common.pdb
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.AssemblyInfoInputs.cache
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.AssemblyInfo.cs
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.csproj.CoreCompileInputs.cache
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.sourcelink.json
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\refint\WordWave.Api.Common.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\WordWave.Api.Common.pdb
+C:\Users\onurc\RiderProjects\WordWave\src\Common\WordWave.Api.Common\obj\Debug\net7.0\ref\WordWave.Api.Common.dll

@@ -4,6 +4,218 @@
     "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\WebApi\\WordWave.Api.WebApi\\WordWave.Api.WebApi.csproj": {}
   },
   "projects": {
+    "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj",
+        "projectName": "WordWave.Api.Application",
+        "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj",
+        "projectName": "WordWave.Api.Domain",
+        "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj": {
+                "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\WordWave.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\WordWave.Infrastructure.Persistence.csproj",
+        "projectName": "WordWave.Infrastructure.Persistence",
+        "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\WordWave.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj": {
+                "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Application\\WordWave.Api.Application.csproj"
+              },
+              "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoBogus": {
+              "target": "Package",
+              "version": "[2.13.1, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[8.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\WebApi\\WordWave.Api.WebApi\\WordWave.Api.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +239,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\WordWave.Infrastructure.Persistence.csproj": {
+                "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Infrastructure\\WordWave.Infrastructure.Persistence\\WordWave.Infrastructure.Persistence.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -64,6 +280,61 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj",
+        "projectName": "WordWave.Api.Common",
+        "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj",
+        "packagesPath": "C:\\Users\\onurc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\onurc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

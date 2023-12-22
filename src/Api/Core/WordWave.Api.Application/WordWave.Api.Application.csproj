@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\WordWave.Api.Domain\WordWave.Api.Domain.csproj" />
+    </ItemGroup>
+
 </Project>

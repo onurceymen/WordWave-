@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WordWave.Api.Application/1.0.0": {
+        "dependencies": {
+          "WordWave.Api.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WordWave.Api.Application.dll": {}
+        }
+      },
+      "WordWave.Api.Common/1.0.0": {
+        "runtime": {
+          "WordWave.Api.Common.dll": {}
+        }
+      },
+      "WordWave.Api.Domain/1.0.0": {
+        "dependencies": {
+          "WordWave.Api.Common": "1.0.0"
+        },
+        "runtime": {
+          "WordWave.Api.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WordWave.Api.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordWave.Api.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordWave.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

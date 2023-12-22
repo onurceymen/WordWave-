@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\WordWave.Api.WebApp.props" />
+</Project>

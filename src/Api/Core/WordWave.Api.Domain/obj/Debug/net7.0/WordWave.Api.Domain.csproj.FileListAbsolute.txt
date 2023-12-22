@@ -1,0 +1,16 @@
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\bin\Debug\net7.0\WordWave.Api.Domain.deps.json
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\bin\Debug\net7.0\WordWave.Api.Domain.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\bin\Debug\net7.0\WordWave.Api.Domain.pdb
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\bin\Debug\net7.0\WordWave.Api.Common.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\bin\Debug\net7.0\WordWave.Api.Common.pdb
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.csproj.AssemblyReference.cache
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.AssemblyInfo.cs
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.sourcelink.json
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.csproj.CopyComplete
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\refint\WordWave.Api.Domain.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\WordWave.Api.Domain.pdb
+C:\Users\onurc\RiderProjects\WordWave\src\Api\Core\WordWave.Api.Domain\obj\Debug\net7.0\ref\WordWave.Api.Domain.dll

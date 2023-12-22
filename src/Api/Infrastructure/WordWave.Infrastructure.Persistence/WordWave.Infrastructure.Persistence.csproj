@@ -7,6 +7,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+      <PackageReference Include="AutoBogus" Version="2.13.1" />
       <PackageReference Include="Bogus" Version="35.0.1" />
       <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
       <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="7.0.0" />
@@ -19,6 +20,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\Core\WordWave.Api.Application\WordWave.Api.Application.csproj" />
       <ProjectReference Include="..\..\Core\WordWave.Api.Domain\WordWave.Api.Domain.csproj" />
     </ItemGroup>
 

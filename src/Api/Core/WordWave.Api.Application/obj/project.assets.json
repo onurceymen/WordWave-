@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "WordWave.Api.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/WordWave.Api.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordWave.Api.Common.dll": {}
+        }
+      },
+      "WordWave.Api.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "WordWave.Api.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WordWave.Api.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordWave.Api.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WordWave.Api.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/WordWave.Api.Common/WordWave.Api.Common.csproj",
+      "msbuildProject": "../../../Common/WordWave.Api.Common/WordWave.Api.Common.csproj"
+    },
+    "WordWave.Api.Domain/1.0.0": {
+      "type": "project",
+      "path": "../WordWave.Api.Domain/WordWave.Api.Domain.csproj",
+      "msbuildProject": "../WordWave.Api.Domain/WordWave.Api.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "WordWave.Api.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\onurc\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj": {
+              "projectPath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Api\\Core\\WordWave.Api.Domain\\WordWave.Api.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

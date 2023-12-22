@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N5vN3+IW7+sV3XAT1XQhrw5DJJQKiLHFus9n+TH/idU=",
+  "Source": "WordWave.Api.WebApi",
+  "BasePath": "_content/WordWave.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
