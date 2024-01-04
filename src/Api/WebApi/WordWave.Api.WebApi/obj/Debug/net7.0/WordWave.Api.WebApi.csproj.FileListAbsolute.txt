@@ -83,3 +83,11 @@ C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\obj\Deb
 C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\obj\Debug\net7.0\WordWave.Api.WebApi.pdb
 C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\obj\Debug\net7.0\WordWave.Api.WebApi.genruntimeconfig.cache
 C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\obj\Debug\net7.0\ref\WordWave.Api.WebApi.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\FluentValidation.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\MediatR.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\onurc\RiderProjects\WordWave\src\Api\WebApi\WordWave.Api.WebApi\bin\Debug\net7.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

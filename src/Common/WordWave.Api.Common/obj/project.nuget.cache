@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "OhQ8VkHYZMw/0a+s1HU9/0O9RhQO4le7q5yBaw+Zi5nOfoJV1QRuGAQReTPr7bR42SkD0pgU/z+rCc51GhCLDA==",
+  "dgSpecHash": "2NQefZ265myCxSnG7TAaRMh/Cp8FzX4c/nRkVF0JYAlAopFL+24h44QEQUSji23fl/HG5H90ahy/xnuFAwdVFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\onurc\\RiderProjects\\WordWave\\src\\Common\\WordWave.Api.Common\\WordWave.Api.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\onurc\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\onurc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

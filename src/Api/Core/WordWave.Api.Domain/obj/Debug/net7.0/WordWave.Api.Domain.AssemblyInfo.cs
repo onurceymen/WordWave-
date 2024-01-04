@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WordWave.Api.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e854618764c01f207c5946a8e0a11a2d1b9ea8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53dca01f7e25f6cae16d884ce96376d46138d206")]
 [assembly: System.Reflection.AssemblyProductAttribute("WordWave.Api.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WordWave.Api.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
