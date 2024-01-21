@@ -1,7 +1,7 @@
 {
   "entryAssembly": "WordWave.Api.WebApp",
   "resources": {
-    "hash": "sha256-zCHFzpCRHYcSw9Z2FO0w3RpTOmjm8xw2WF7U80uh2Io=",
+    "hash": "sha256-m4GdxDeifx9FKboNzFlnu38Rxi7HzOstSUpv49F4F6A=",
     "runtime": {
       "dotnet.7.0.14.mz28l11871.js": "sha256-YWGUknGRzP/fgO6YjvCJKPVQNZAPEd6ll+rHfQEIW+I=",
       "dotnet.timezones.blat": "sha256-t5xviiOQTfAsF0UDhmcyalKiaehUmf/sqJl97tmPM0M=",
@@ -202,10 +202,10 @@
       "mscorlib.dll": "sha256-YcsJInaT/kw3Vrm+SESegPxvT/Lr9RE6rE/KnxWIIc0=",
       "netstandard.dll": "sha256-TztlSRjADgiEABbiAMdWZpHrUVd8wnRtQRAvlwmRP/4=",
       "System.Private.CoreLib.dll": "sha256-BAhrZ8Zg3cJKQipxdzqQo+9jtPkOkRx1ou3oIhDohtk=",
-      "WordWave.Api.WebApp.dll": "sha256-0LqTpt9/QFwUjLeMUbtUgQJvDAKnaGiCCh0lqFDmT6c="
+      "WordWave.Api.WebApp.dll": "sha256-FDyjkTalAK1mNRs/F4HfRcGsom6OpVsHosPj1x3vCX8="
     },
     "pdb": {
-      "WordWave.Api.WebApp.pdb": "sha256-9Dl6J1uyJrgRkmv0HdkHsZK+umEkBO/fGqh6g+sKLhw="
+      "WordWave.Api.WebApp.pdb": "sha256-DpO81LbIOhFGa5qB0F1akHwhvszY6pQkZGvKhxwuRyU="
     },
     "runtimeAssets": {
       "dotnet.wasm": {

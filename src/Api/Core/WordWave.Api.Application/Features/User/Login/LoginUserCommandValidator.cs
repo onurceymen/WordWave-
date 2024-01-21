@@ -1,7 +1,7 @@
 using FluentValidation;
 using WordWave.Api.Common.ViewModels.RequestModels;
 
-namespace WordWave.Api.Application.Features.User;
+namespace WordWave.Api.Application.Features.User.Login;
 
 public class LoginUserCommandValidator : AbstractValidator<LoginUserCommand>
 {

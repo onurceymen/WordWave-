@@ -11,7 +11,7 @@ using WordWave.Api.Common.Infrastructure.Exceptions;
 using WordWave.Api.Common.ViewModels.Queries;
 using WordWave.Api.Common.ViewModels.RequestModels;
 
-namespace WordWave.Api.Application.Features.User;
+namespace WordWave.Api.Application.Features.User.Login;
 
 public class LoginUserCommandHandler : IRequestHandler<LoginUserCommand, LoginUserViewModel>
 {
